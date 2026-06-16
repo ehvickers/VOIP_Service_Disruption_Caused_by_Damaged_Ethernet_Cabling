@@ -1,4 +1,6 @@
 # Root Cause Analysis: VOIP Service Disruption Caused by Damaged Ethernet Cabling
+## Summary, Findings, and Recommended Actions
+*Prepared for Automotive Parts Retail Store*
 
 
 | Document | Root Cause Analysis: VOIP Service Disruption Caused by Damaged Ethernet Cabling |
@@ -8,7 +10,7 @@
 | Type     | Incident Root Cause Investigation |
 
 **Read the paper (PDF)**  
-[The Role of Supply Chain Management in a Car Dealership](the-role-of-supply-chain-management-in-a-car-dealership.pdf)
+[Root Cause Analysis: VOIP Service Disruption Caused by Damaged Ethernet Cabling](AutomotiveVOIPPhoneNetworkIssue.pdf)
 
 
 ## Executive Summary
@@ -37,9 +39,9 @@ A Cisco VOIP phone at the front counter lost network connectivity while continui
 ## Document
 
 📄 **PDF version (recommended)**  
-[Download the paper](the-role-of-supply-chain-management-in-a-car-dealership.pdf)
+[Download the paper](AutomotiveVOIPPhoneNetworkIssue.pdf)
 
 ✏️ Editable version  
-[Word document](the-role-of-supply-chain-management-in-a-car-dealership.docx)
+[Word document](AutomotiveRetailerVOIPIssue.docx)
 
 
