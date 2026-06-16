@@ -22,7 +22,7 @@ A Cisco VOIP phone at the front counter lost network connectivity while continui
 | Problem Description |
 | Business Impact  |
 | Findings |
-| Cprrectove Action|
+| Correctove Action|
 
 ## Skills Demonstrated
 
